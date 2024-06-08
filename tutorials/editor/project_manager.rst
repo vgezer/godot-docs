@@ -13,7 +13,7 @@ corner.
 
 .. image:: img/editor_ui_intro_project_manager_02.webp
 
-Then on the settings page seelct the language you want from the dropdown menu.
+Then on the settings page select the language you want from the dropdown menu.
 
 .. image:: img/editor_ui_intro_project_manager_10.webp
 
