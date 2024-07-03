@@ -411,6 +411,8 @@ FileSystem Dock
 | Delete      | :kbd:`Del`      | :kbd:`Cmd + BkSp` | ``filesystem_dock/delete``    |
 +-------------+-----------------+-------------------+-------------------------------+
 
+.. _doc_default_key_mapping_scene_tree_dock:
+
 Scene Tree Dock
 ---------------
 

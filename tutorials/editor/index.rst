@@ -20,6 +20,7 @@ in other sections where appropriate. For example, the :ref:`animation editor
    :name: toc-editor-interface
 
    project_manager
+   scene_tree_dock
    inspector_dock
    project_settings
    default_key_mapping
